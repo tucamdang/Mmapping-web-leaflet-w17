@@ -3,7 +3,7 @@
 The United States Geological Survey, or USGS provides scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. They develop new tools to supply timely, relevant, and useful information about the Earth. As new employee, I am part of this project and involve to visualise their earthquake data.
 Having massive amount of data from all over the world, they find a way to display the map. 
 
-Access this to visualise: https://tucamdang.github.io/Mapping-web-leaflet-w17/
+Access this to visualise:(https://tucamdang.github.io/Mmapping-web-leaflet-w17/)
 
 
 By using this below two url links (data) to pull in the data for our visualisation.
